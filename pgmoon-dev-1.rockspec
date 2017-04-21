@@ -3,7 +3,7 @@ version = "dev-1"
 
 source = {
   url = "git://github.com/musicglue/pgmoon.git"
-  branch = "parameterized"
+  tag = "parameterized"
 }
 
 description = {
