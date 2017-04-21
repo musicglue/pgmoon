@@ -2,8 +2,8 @@ package = "pgmoon"
 version = "dev-1"
 
 source = {
-  url = "git://github.com/musicglue/pgmoon.git"
-  tag = "parameterized"
+  url = "git://github.com/musicglue/pgmoon.git",
+  branch = "parameterized"
 }
 
 description = {
