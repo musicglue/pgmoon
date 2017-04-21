@@ -2,7 +2,7 @@ package = "pgmoon"
 version = "dev-1"
 
 source = {
-  url = "git://github.com/leafo/pgmoon.git"
+  url = "git://github.com/musicglue/pgmoon.git#parameterized"
 }
 
 description = {
